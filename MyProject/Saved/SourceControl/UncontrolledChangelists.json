@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/Main_Menu.umap",
+				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/Multiplayer_Game_Mode.uasset",
+				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/BP_Game_Instance.uasset",
+				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/Main_Menu_Widget.uasset"
+			]
+		}
+	]
+}
