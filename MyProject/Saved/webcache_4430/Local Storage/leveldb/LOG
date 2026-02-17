@@ -1,0 +1,38 @@
+2026/02/17-13:41:44.744 4eb4 Creating DB C:/Users/Clair/Documents/GitHub/Year1_Client_Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/02/17-13:41:44.754 4eb4 Reusing MANIFEST C:/Users/Clair/Documents/GitHub/Year1_Client_Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/17-13:56:47.501 6108 Level-0 table #5: started
+2026/02/17-13:56:47.505 6108 Level-0 table #5: 63037 bytes OK
+2026/02/17-13:56:47.508 6108 Delete type=0 #3
+2026/02/17-14:24:50.644 2bd0 Level-0 table #7: started
+2026/02/17-14:24:50.647 2bd0 Level-0 table #7: 68533 bytes OK
+2026/02/17-14:24:50.650 2bd0 Delete type=0 #4
+2026/02/17-14:26:45.437 75f4 Level-0 table #9: started
+2026/02/17-14:26:45.440 75f4 Level-0 table #9: 63437 bytes OK
+2026/02/17-14:26:45.443 75f4 Delete type=0 #6
+2026/02/17-14:27:34.797 2bd0 Level-0 table #11: started
+2026/02/17-14:27:34.801 2bd0 Level-0 table #11: 73565 bytes OK
+2026/02/17-14:27:34.805 2bd0 Delete type=0 #8
+2026/02/17-14:48:16.287 714c Level-0 table #13: started
+2026/02/17-14:48:16.290 714c Level-0 table #13: 63487 bytes OK
+2026/02/17-14:48:16.292 714c Delete type=0 #10
+2026/02/17-15:49:50.808 551c Level-0 table #15: started
+2026/02/17-15:49:50.812 551c Level-0 table #15: 67806 bytes OK
+2026/02/17-15:49:50.815 551c Delete type=0 #12
+2026/02/17-15:49:50.816 551c Compacting 4@0 + 1@1 files
+2026/02/17-15:49:50.819 551c Generated table #16@0: 2 keys, 17513 bytes
+2026/02/17-15:49:50.819 551c Compacted 4@0 + 1@1 files => 17513 bytes
+2026/02/17-15:49:50.820 551c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/17-15:49:50.822 551c Delete type=2 #7
+2026/02/17-15:49:50.822 551c Delete type=2 #9
+2026/02/17-15:49:50.822 551c Delete type=2 #11
+2026/02/17-15:49:50.822 551c Delete type=2 #13
+2026/02/17-15:49:50.822 551c Delete type=2 #15
+2026/02/17-15:51:28.282 53a8 Level-0 table #18: started
+2026/02/17-15:51:28.284 53a8 Level-0 table #18: 76250 bytes OK
+2026/02/17-15:51:28.286 53a8 Delete type=0 #14
+2026/02/17-15:52:00.635 551c Level-0 table #20: started
+2026/02/17-15:52:00.639 551c Level-0 table #20: 63221 bytes OK
+2026/02/17-15:52:00.641 551c Delete type=0 #17
+2026/02/17-15:52:39.113 53a8 Level-0 table #22: started
+2026/02/17-15:52:39.115 53a8 Level-0 table #22: 68310 bytes OK
+2026/02/17-15:52:39.117 53a8 Delete type=0 #19
