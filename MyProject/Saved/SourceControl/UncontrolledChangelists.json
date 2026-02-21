@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mvmax/Documents/Unreal Projects/GitHub/Year1_Client_Brief/MyProject/Content/Michael_Work/Boat_Race_Minigame.umap",
+				"C:/Users/mvmax/Documents/Unreal Projects/GitHub/Year1_Client_Brief/MyProject/Content/Michael_Work/BP_Boat_Race.uasset",
+				"C:/Users/mvmax/Documents/Unreal Projects/GitHub/Year1_Client_Brief/MyProject/Content/Michael_Work/BP_Boat_Race_Gamemode.uasset",
 				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/Main_Menu.umap",
 				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/Multiplayer_Game_Mode.uasset",
 				"C:/Users/2403782/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/BP_Game_Instance.uasset",
