@@ -1,3 +1,5 @@
-2026/03/13-13:06:29.548 5b10 Reusing MANIFEST C:/Users/Clair/Documents/GitHub/Year1_Client_Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/13-13:06:29.549 5b10 Recovering log #34
-2026/03/13-13:06:29.550 5b10 Reusing old log C:/Users/Clair/Documents/GitHub/Year1_Client_Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/000034.log 
+2026/03/13-14:45:02.049 54a4 Reusing MANIFEST C:/Users/Clair/Documents/GitHub/Year1_Client_Brief/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/13-14:45:02.050 54a4 Recovering log #34
+2026/03/13-14:45:02.050 54a4 Level-0 table #37: started
+2026/03/13-14:45:02.052 54a4 Level-0 table #37: 63004 bytes OK
+2026/03/13-14:45:02.055 54a4 Delete type=0 #34
