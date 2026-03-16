@@ -5,10 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/2407273/Downloads/ClientBrief/Content/Minigames/LiarsDice/LiarsDice.umap",
 				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.uasset",
 				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/BP_Dice.uasset",
-				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/LiarsDice.umap"
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/LiarsDice.umap",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/ST_DiceRolls.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/GM_LiarsDice.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_1.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_2.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_3.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_4.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_5.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/Layer_6.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/Minigames/LiarsDice/W_DiceRolls.uasset",
+				"C:/Users/2407273/Documents/GitHub/Year1_Client_Brief/MyProject/Content/My_content/BP_Game_Instance.uasset",
+				"C:/Users/2407273/Downloads/ClientBrief/Content/Minigames/LiarsDice/LiarsDice.umap"
 			]
 		}
 	]
